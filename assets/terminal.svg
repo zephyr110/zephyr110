@@ -34,7 +34,7 @@
 
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.2s" fill="freeze"/>
-    <text x="28" y="164" font-size="14"><tspan fill="#58a6ff" font-weight="600">dramaclaw/</tspan><tspan dx="26" fill="#58a6ff" font-weight="600">reelay-agent/</tspan><tspan dx="26" fill="#484f58">drafts/</tspan></text>
+    <text x="28" y="164" font-size="14"><tspan fill="#58a6ff" font-weight="600">financial-news/</tspan><tspan dx="26" fill="#58a6ff" font-weight="600">bitblog/</tspan><tspan dx="26" fill="#484f58">drafts/</tspan></text>
   </g>
 
   <!-- $ cat philosophy.md (typed) -->
