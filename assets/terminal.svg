@@ -37,14 +37,14 @@
     <text x="28" y="164" font-size="14"><tspan fill="#58a6ff" font-weight="600">financial-news/</tspan><tspan dx="26" fill="#58a6ff" font-weight="600">bitblog/</tspan><tspan dx="26" fill="#484f58">drafts/</tspan></text>
   </g>
 
-  <!-- $ cat philosophy.md (typed) -->
+  <!-- $ cat zephyr.md (typed) -->
   <clipPath id="type3">
     <rect x="28" y="180" height="26" width="0">
       <animate attributeName="width" from="0" to="190" begin="3.2s" dur="0.8s" fill="freeze"/>
     </rect>
   </clipPath>
   <g clip-path="url(#type3)">
-    <text x="28" y="198" font-size="14"><tspan fill="#3fb950">$</tspan><tspan dx="8" fill="#e6edf3">cat philosophy.md</tspan></text>
+    <text x="28" y="198" font-size="14"><tspan fill="#3fb950">$</tspan><tspan dx="8" fill="#e6edf3">cat zephyr.md</tspan></text>
   </g>
 
   <g opacity="0">
