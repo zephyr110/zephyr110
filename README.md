@@ -4,12 +4,6 @@
 
 <br />
 
-<p align="center">
-  <img src="./assets/3d-contrib.svg" alt="3D Contributions" width="100%" />
-</p>
-
-<br />
-
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
