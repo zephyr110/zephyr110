@@ -5,7 +5,7 @@
 <br />
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="90%" />
+  <img src="https://raw.githubusercontent.com/zephyr110/zephyr110/profile-3d/profile-night-rainbow.svg" alt="3D Contributions" width="90%" />
 </p>
 
 <br />
